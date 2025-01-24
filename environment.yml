@@ -1,0 +1,25 @@
+name: scripps
+channels:
+ - conda-forge
+ - nodefaults
+dependencies:
+ - scipy
+ - netcdf4
+ - xesmf
+ - dask
+ - ipycytoscape
+ - xarray
+ - matplotlib
+ - ipdb
+ - ipykernel
+ - ipyleaflet
+ - ipympl
+ - ipytree
+ - ipywidgets
+ - jupyterlab_code_formatter
+ - jupyterlab-git
+ - jupyterlab-lsp
+ - jupyterlab-myst
+ - jupyter-panel-proxy
+ - jupyter-resource-usage
+ - jupyter-sshd-proxy
